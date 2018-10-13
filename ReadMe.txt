@@ -9,3 +9,4 @@ This will run the container
 sudo  ./Data_in_Filo_through_cli.sh
 
 After these steps, we can use FIloDB in the container itself.
+refere https://github.com/filodb/FiloDB for more information
